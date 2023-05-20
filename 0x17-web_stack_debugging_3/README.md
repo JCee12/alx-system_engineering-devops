@@ -1,2 +1,2 @@
-Web Stack Debugging #3
----------------------
+Web stack debugging #3
+----
